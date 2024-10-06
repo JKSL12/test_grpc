@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option csharp_namespace = "GrpcService1";
+
+package enum;
+
+enum ABILITY_TYPE
+{	
+	ABILITY_START_MONEY_BONUS = 0;
+	ABILITY_NONE = -1;
+}

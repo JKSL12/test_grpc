@@ -1,0 +1,26 @@
+syntax = "proto3";
+
+option csharp_namespace = "GrpcService1";
+
+package common;
+
+message USER_CHARGE_INFO
+{
+	int64 limitchargetime_free = 1;	//
+	int64 limitchargetime_shield = 2;	//
+	int64 limitchargetime_daily = 3;	//
+	int32 usecount_shield = 4;		//
+	int64 limitchargetime_gift = 5;	//
+	int32 usecount_gift = 6;			//
+	int64 limitchargetime_beginner = 7;
+	int32 usecount_beginner = 8;
+	int64 limitchargetime_sns_skill = 9;	//
+	int64 limitchargetime_sns_result = 10;	//	
+	int64 limitchargetime_sns_rank = 11;	//
+	int64 limitchargetime_emergency = 12;	//
+	int32 usecount_emergency = 13;			//
+	int64 limitchargetime_recovery = 14;	//
+	int32 usecount_recovery = 15;			//
+	int64 limitchargetime_sns_character = 16;	//
+	int64 limitchargetime_sns_goods = 17;	//
+};

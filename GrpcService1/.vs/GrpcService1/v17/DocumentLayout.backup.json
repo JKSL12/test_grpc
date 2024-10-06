@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\gRpcTest\\GrpcService1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4046F855-1CD4-4688-928C-F68D78BB6DC5}|GrpcService1.csproj|c:\\grpctest\\grpcservice1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4046F855-1CD4-4688-928C-F68D78BB6DC5}|GrpcService1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4046F855-1CD4-4688-928C-F68D78BB6DC5}|GrpcService1.csproj|c:\\grpctest\\grpcservice1\\services\\greeterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4046F855-1CD4-4688-928C-F68D78BB6DC5}|GrpcService1.csproj|solutionrelative:services\\greeterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4046F855-1CD4-4688-928C-F68D78BB6DC5}|GrpcService1.csproj|c:\\grpctest\\grpcservice1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4046F855-1CD4-4688-928C-F68D78BB6DC5}|GrpcService1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4046F855-1CD4-4688-928C-F68D78BB6DC5}|GrpcService1.csproj|c:\\grpctest\\grpcservice1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4046F855-1CD4-4688-928C-F68D78BB6DC5}|GrpcService1.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4046F855-1CD4-4688-928C-F68D78BB6DC5}|GrpcService1.csproj|c:\\grpctest\\grpcservice1\\grpcservice1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4046F855-1CD4-4688-928C-F68D78BB6DC5}|GrpcService1.csproj|solutionrelative:grpcservice1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4046F855-1CD4-4688-928C-F68D78BB6DC5}|GrpcService1.csproj|c:\\grpctest\\grpcservice1\\grpcservice1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{4046F855-1CD4-4688-928C-F68D78BB6DC5}|GrpcService1.csproj|solutionrelative:grpcservice1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4046F855-1CD4-4688-928C-F68D78BB6DC5}|GrpcService1.csproj|c:\\grpctest\\grpcservice1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4046F855-1CD4-4688-928C-F68D78BB6DC5}|GrpcService1.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\gRpcTest\\GrpcService1\\obj\\Debug\\net8.0\\Common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net8.0\\Common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\gRpcTest\\GrpcService1\\obj\\Debug\\net8.0\\Test1Grpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net8.0\\Test1Grpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Test1Grpc.cs",
+              "DocumentMoniker": "C:\\gRpcTest\\GrpcService1\\obj\\Debug\\net8.0\\Test1Grpc.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net8.0\\Test1Grpc.cs",
+              "ToolTip": "C:\\gRpcTest\\GrpcService1\\obj\\Debug\\net8.0\\Test1Grpc.cs",
+              "RelativeToolTip": "obj\\Debug\\net8.0\\Test1Grpc.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAqwFAAAACBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T02:29:58.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\gRpcTest\\GrpcService1\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\gRpcTest\\GrpcService1\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-04T02:29:13.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Common.cs",
+              "DocumentMoniker": "C:\\gRpcTest\\GrpcService1\\obj\\Debug\\net8.0\\Common.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net8.0\\Common.cs",
+              "ToolTip": "C:\\gRpcTest\\GrpcService1\\obj\\Debug\\net8.0\\Common.cs",
+              "RelativeToolTip": "obj\\Debug\\net8.0\\Common.cs",
+              "ViewState": "AgIAAKECAAAAAAAAAAAqwLICAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T01:39:11.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GrpcService1.csproj",
+              "DocumentMoniker": "C:\\gRpcTest\\GrpcService1\\GrpcService1.csproj",
+              "RelativeDocumentMoniker": "GrpcService1.csproj",
+              "ToolTip": "C:\\gRpcTest\\GrpcService1\\GrpcService1.csproj",
+              "RelativeToolTip": "GrpcService1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-04T01:07:51.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GrpcService1",
+              "DocumentMoniker": "C:\\gRpcTest\\GrpcService1\\GrpcService1.csproj",
+              "RelativeDocumentMoniker": "GrpcService1.csproj",
+              "ToolTip": "C:\\gRpcTest\\GrpcService1\\GrpcService1.csproj",
+              "RelativeToolTip": "GrpcService1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-04T00:09:53.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GreeterService.cs",
+              "DocumentMoniker": "C:\\gRpcTest\\GrpcService1\\Services\\GreeterService.cs",
+              "RelativeDocumentMoniker": "Services\\GreeterService.cs",
+              "ToolTip": "C:\\gRpcTest\\GrpcService1\\Services\\GreeterService.cs",
+              "RelativeToolTip": "Services\\GreeterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T23:47:44.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\gRpcTest\\GrpcService1\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\gRpcTest\\GrpcService1\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-04T04:34:51.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\gRpcTest\\GrpcService1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\gRpcTest\\GrpcService1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T23:42:55.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\gRpcTest\\GrpcService1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\gRpcTest\\GrpcService1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-04T04:07:47.148Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
